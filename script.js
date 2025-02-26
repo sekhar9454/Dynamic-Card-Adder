@@ -31,7 +31,7 @@ function AddCard(){
    
    let img = document.createElement("img");
    img.src = content_list[5];
-   img.setAttribute("height" , "180px");
+
    
    let time_stamp = document.createElement("div");
    time_stamp.setAttribute("id" , "timeStamp");
