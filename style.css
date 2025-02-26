@@ -86,6 +86,12 @@ button:hover {
     position: relative;
 }
 
+.imgContainer img{
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
 #timeStamp {
     position: absolute;
     bottom: 6px;
